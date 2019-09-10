@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.58664a94.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.d5bb4ca1.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.d5bb4ca1.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.c0093c6e.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.c0093c6e.js.map",
-    "static/js/2.21ea3aa2.chunk.js": "/react-gh-pages/static/js/2.21ea3aa2.chunk.js",
-    "static/js/2.21ea3aa2.chunk.js.map": "/react-gh-pages/static/js/2.21ea3aa2.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.107dd6332eeba668097e220449c3fbe8.js": "/react-gh-pages/precache-manifest.107dd6332eeba668097e220449c3fbe8.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.58664a94.chunk.css.map": "/react-gh-pages/static/css/main.58664a94.chunk.css.map"
+    "main.css": "/React-app-with-search-feature/static/css/main.58664a94.chunk.css",
+    "main.js": "/React-app-with-search-feature/static/js/main.d5bb4ca1.chunk.js",
+    "main.js.map": "/React-app-with-search-feature/static/js/main.d5bb4ca1.chunk.js.map",
+    "runtime~main.js": "/React-app-with-search-feature/static/js/runtime~main.5876aa34.js",
+    "runtime~main.js.map": "/React-app-with-search-feature/static/js/runtime~main.5876aa34.js.map",
+    "static/js/2.21ea3aa2.chunk.js": "/React-app-with-search-feature/static/js/2.21ea3aa2.chunk.js",
+    "static/js/2.21ea3aa2.chunk.js.map": "/React-app-with-search-feature/static/js/2.21ea3aa2.chunk.js.map",
+    "index.html": "/React-app-with-search-feature/index.html",
+    "precache-manifest.c10f8b31d66aef7e0b0348a702ea212b.js": "/React-app-with-search-feature/precache-manifest.c10f8b31d66aef7e0b0348a702ea212b.js",
+    "service-worker.js": "/React-app-with-search-feature/service-worker.js",
+    "static/css/main.58664a94.chunk.css.map": "/React-app-with-search-feature/static/css/main.58664a94.chunk.css.map"
   }
 }
